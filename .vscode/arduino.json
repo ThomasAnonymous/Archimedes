@@ -1,0 +1,7 @@
+{
+    "port": "COM6",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328",
+    "programmer": "Atmel-ICE (AVR)",
+    "sketch": "Archimedes.ino"
+}
